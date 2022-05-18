@@ -1,9 +1,9 @@
 import React from "react";
 
 const Logo = (props) => {
-  const logWhenClicked = () => {
-  console.log("Button was clicked!");
-  }
+  // const logWhenClicked = () => {
+  // console.log("Button was clicked!");
+  // }
   return (
   <div>
     <header>
